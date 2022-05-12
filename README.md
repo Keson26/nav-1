@@ -1,5 +1,5 @@
 # 导航网站项目
-[预览地址：keson26.github.io/nav-1/dist/index.html](keson26.github.io/nav-1/dist/index.html)
+[预览地址：https://keson26.github.io/nav-1/dist/index.html](https://keson26.github.io/nav-1/dist/index.html)
 ## 技术栈
 ● jQuery
 ● LocalStorage
